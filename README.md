@@ -25,6 +25,26 @@
         strong {
             color: #333;
         }
+        #about-me {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        #about-me h2 {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        #about-me p {
+            font-size: 24px;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
     </style>
 </head>
 <body>
@@ -101,6 +121,15 @@
     <p>
         This article was intended to give a view of the history of computing and some important IT ideas so that the user can realize how modern society is influenced by technology.
     </p>
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>
+            Hello! I’m [Your Name], a [Your Profession or Hobby] passionate about [Your Interests or Goals]. I have a background in [Your Background] and have worked on various projects including [Highlight a Few Key Projects or Achievements]. 
+        </p>
+        <p>
+            In my free time, I enjoy [Your Hobbies], and I’m always looking to learn new things and explore new ideas. Feel free to connect with me via [Your Contact Information or Social Media].
+        </p>
+    </section>
 
 </body>
 </html>
