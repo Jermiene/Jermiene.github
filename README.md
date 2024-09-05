@@ -25,6 +25,11 @@
         strong {
             color: #333;
         }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         #about-me {
             background-color: #fff;
             padding: 20px;
@@ -48,6 +53,7 @@
     </style>
 </head>
 <body>
+  <div class="container">
     <h1>Journey Through Computing: From Ancient Tools to Modern Technology</h1>
 
     <h2>Introduction</h2>
@@ -130,6 +136,6 @@
             In my free time, I enjoy [Your Hobbies], and I’m always looking to learn new things and explore new ideas. Feel free to connect with me via [Your Contact Information or Social Media].
         </p>
     </section>
-
+  </div>
 </body>
 </html>
