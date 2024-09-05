@@ -1,4 +1,3 @@
-# Jermiene.github.io
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -134,10 +133,13 @@
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-            Hello! I’m [Your Name], a [Your Profession or Hobby] passionate about [Your Interests or Goals]. I have a background in [Your Background] and have worked on various projects including [Highlight a Few Key Projects or Achievements]. 
+            Hello! I'm Jermiene Rivera, a first year college student in Bachelor of Science in Computer Science at the University of Perpetual Help System DALTA - Molino Campus. I am passionate about the games: Mobile Legends, Animal Crossing, and Chess.
         </p>
         <p>
-            In my free time, I enjoy [Your Hobbies], and I’m always looking to learn new things and explore new ideas. Feel free to connect with me via [Your Contact Information or Social Media].
+            In addition to my studies and hobbies, I am deeply interested in the evolving field of technology and how it impacts our daily lives. I enjoy exploring new programming languages and keeping up with the latest trends in tech. Outside of academics, I love exercising and staying active, as I believe a balanced lifestyle contributes to overall well-being.
+        </p>
+        <p>
+        I believe that “Time is Gold,” so I always strive to tackle assignments immediately after they’re given. I’m excited about the future and eager to see where my passion for technology will take me.
         </p>
     </section>
   </div>
