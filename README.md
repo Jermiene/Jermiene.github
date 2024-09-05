@@ -133,7 +133,7 @@
     <section id="about-me">
         <h2>About Me</h2>
         <p>
-            Hello! I'm Jermiene Rivera, a first year college student in Bachelor of Science in Computer Science at the University of Perpetual Help System DALTA - Molino Campus. I am passionate about the games: Mobile Legends, Animal Crossing, and Chess.
+            Hello! I'm Jermiene Rivera, a first year college student in Bachelor of Science in Computer Science at the University of Perpetual Help System DALTA - Molino Campus. I am passionate about playing games like  Mobile Legends, Animal Crossing, and Chess.
         </p>
         <p>
             In addition to my studies and hobbies, I am deeply interested in the evolving field of technology and how it impacts our daily lives. I enjoy exploring new programming languages and keeping up with the latest trends in tech. Outside of academics, I love exercising and staying active, as I believe a balanced lifestyle contributes to overall well-being.
