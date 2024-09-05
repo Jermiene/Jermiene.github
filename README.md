@@ -27,8 +27,12 @@
         }
         .container {
             max-width: 1500px;
-            margin: 0 auto;
+            margin: 20px auto;
             padding: 20px;
+            background-color: #fff;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         #about-me {
             background-color: #fff;
